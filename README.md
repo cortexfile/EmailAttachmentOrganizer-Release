@@ -1,6 +1,6 @@
 <div align="center">
 
-# ðŸ“§ Email Attachment Organizer
+# 📧 Email Attachment Organizer
 
 ### Professional Edition v1.0
 
@@ -10,13 +10,13 @@
 
 **Automate your document workflow securely. Save hours of manual downloading.**
 
-[â¬‡ï¸ Download Latest Release](https://github.com/cortexfile/EmailAttachmentOrganizer/releases/latest) | [ðŸ“– User Guide](USER_GUIDE_EN.html) | [ðŸ“§ Support](mailto:cortexfile.fm@gmail.com)
+[⬇️ Download Latest Release](https://github.com/cortexfile/EmailAttachmentOrganizer/releases/latest) | [📖 User Guide](USER_GUIDE_EN.html) | [📧 Support](mailto:cortexfile.fm@gmail.com)
 
 </div>
 
 ---
 
-## ðŸš€ Key Features
+## 🚀 Key Features
 
 *   **Background Auto-Processing**: Set it and forget it. The application monitors your inbox in the background and processes new emails as they arrive.
 *   **Intelligent Filtering**: Don't download everything. Filter precisely by file type (PDFs, Excel, Images), sender domain, specific dates, or subject lines.
@@ -28,10 +28,10 @@
 
 ---
 
-## ðŸ“¸ Screenshots
+## 📸 Screenshots
 
 <details>
-<summary><b>ðŸ–¼ï¸ Click to expand screenshots gallery</b></summary>
+<summary><b>🖼️ Click to expand screenshots gallery</b></summary>
 
 ### Dashboard
 ![Dashboard](screenshots/12-dashboard.png)
@@ -67,7 +67,7 @@
 
 ---
 
-## ðŸ›¡ï¸ Security & Privacy Architecture
+## 🛡️ Security & Privacy Architecture
 
 We understand that your emails contain sensitive data. Our security model is simple: **We don't see your data.**
 
@@ -78,7 +78,7 @@ We understand that your emails contain sensitive data. Our security model is sim
 
 ---
 
-## ðŸ’» System Requirements
+## 💻 System Requirements
 
 *   **Operating System**: Windows 10 or Windows 11 (64-bit recommended).
 *   **Processor**: Modern dual-core processor or better.
@@ -89,7 +89,7 @@ We understand that your emails contain sensitive data. Our security model is sim
 
 ---
 
-## ðŸ“¦ Installation & First Run
+## 📦 Installation & First Run
 
 1.  **Install**: Run the `EmailAttachmentOrganizer_Setup.exe` installer or unzip the portable package to a folder of your choice.
 2.  **Launch**: Open `EmailAttachmentOrganizer.exe`.
@@ -104,7 +104,7 @@ We understand that your emails contain sensitive data. Our security model is sim
 
 ---
 
-## ðŸ’¡ Usage Tips
+## 💡 Usage Tips
 
 *   **Start Small**: When running for the first time, use the "Date Filtering" option to process only the last 7 days. This helps you verify your rules before scanning years of history.
 *   **OCR Performance**: OCR is resource-intensive. detailed logs. If you are processing thousands of files, consider disabling OCR unless specifically needed for image-based PDFs.
@@ -112,7 +112,7 @@ We understand that your emails contain sensitive data. Our security model is sim
 
 ---
 
-## â“ Frequently Asked Questions
+## ❓ Frequently Asked Questions
 
 **Q: Does this safeguard my emails? Will it delete them?**
 A: The application works in **Read-Only** mode by default. It copies attachments to your computer. It does *not* delete emails from your server unless you explicitly enable a post-processing deletion rule (if available in your version).
@@ -128,7 +128,7 @@ A: 99% of login failures are due to using a regular password instead of an **App
 
 ---
 
-## âš–ï¸ Limitations & Disclaimer
+## ⚖️ Limitations & Disclaimer
 
 *   **Compliance**: You are responsible for ensuring your use of this software complies with the Terms of Service of your email provider.
 *   **Fair Use**: Rapidly downloading thousands of emails may temporarily trigger rate limits from your provider. We recommend processing in reasonable batches.
@@ -136,16 +136,16 @@ A: 99% of login failures are due to using a regular password instead of an **App
 
 ---
 
-## âš–ï¸ License
+## ⚖️ License
 
 **Commercial Use**: This software is licensed, not sold.
 Use of this application is governed by the **End User License Agreement (EULA)** included with this installation. By using the software, you agree to these legal terms.
 
 ---
 
-## ðŸ“ž Support and Contact
+## 📞 Support and Contact
 
 Need help? Found a bug?
 Contact our support team at: **cortexfile.fm@gmail.com**
 
-**Copyright Â© 2026 CortexFile. All Rights Reserved.**
+**Copyright © 2026 CortexFile. All Rights Reserved.**
